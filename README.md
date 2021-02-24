@@ -1,5 +1,3 @@
-# VBA-Challenge
-
 # Notes
 1. Please find the VBA code in Code.vb file.
 2. There are 2 macros: loop_through_worksheets and stockmarket. 
